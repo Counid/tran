@@ -6,7 +6,7 @@ $pkg install git\
 $git clone https://github.com/Counid/tran.git\
 $chmod +x *\
 $cd\
-$./setupTran\
+$./setupTran
 
 # use
 type 'tran' to start use
