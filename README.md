@@ -1,2 +1,3 @@
 # tran
-#this program is aimed for easy to use translate in myanmar
+#this program is aimed for easy to use translate myanmar in termux
+
