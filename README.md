@@ -43,11 +43,11 @@ eg:>    words:exit
  when you want to uninstall type ./uninstallTran.sh
  eg :
  
- cd 
- ls
- cd tran
- chmod +x *
- ./uninstallTran.sh
+ $cd\ 
+ $ls\
+ $cd tran\
+ $chmod +x *\
+ $./uninstallTran.sh
  
  
    
