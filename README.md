@@ -3,7 +3,7 @@ this program is aimed for easy to use translate myanmar in termux
 
 # Install
 $pkg install git\
-$git clone https://github.com/Counid/tran.git\
+$git clone https://github.com/Counid/tran.git \
 $chmod +x *\
 $cd\
 $./setupTran
